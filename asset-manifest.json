@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/music-dft-calc/static/css/main.861e7430.css",
-    "main.js": "/music-dft-calc/static/js/main.80eac7f4.js",
+    "main.js": "/music-dft-calc/static/js/main.e4a68bb5.js",
     "static/js/453.8692d59c.chunk.js": "/music-dft-calc/static/js/453.8692d59c.chunk.js",
     "index.html": "/music-dft-calc/index.html",
     "main.861e7430.css.map": "/music-dft-calc/static/css/main.861e7430.css.map",
-    "main.80eac7f4.js.map": "/music-dft-calc/static/js/main.80eac7f4.js.map",
+    "main.e4a68bb5.js.map": "/music-dft-calc/static/js/main.e4a68bb5.js.map",
     "453.8692d59c.chunk.js.map": "/music-dft-calc/static/js/453.8692d59c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.861e7430.css",
-    "static/js/main.80eac7f4.js"
+    "static/js/main.e4a68bb5.js"
   ]
 }
