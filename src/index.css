@@ -6,7 +6,7 @@ body {
 }
 
 #root {
-  overflow: auto;
+  overflow-x: clip;
 }
 
 code {
