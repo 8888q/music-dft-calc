@@ -91,7 +91,7 @@ function App() {
                     <TableCell>{complexNumbers.findIndex((x) => x == z)}</TableCell>
                     <TableCell align="right">{Math.sqrt( magnitudeSquared ).toPrecision(2)}</TableCell>
                     <TableCell align="right">{magnitudeSquared.toPrecision(decimalPrecision)}</TableCell>
-                    <TableCell align="right">{theta.toPrecision(decimalPrecision) + " rad"}</TableCell>
+                    <TableCell align="right">{(theta/Math.PI).toPrecision(decimalPrecision) + "π rad"}</TableCell>
                     <TableCell align="right">{(theta * 180 / Math.PI).toPrecision(decimalPrecision)}&deg;</TableCell>
                     <TableCell align="right">{z[0].toPrecision(decimalPrecision)}</TableCell>
                     <TableCell align="right">{z[1].toPrecision(decimalPrecision)}</TableCell>
